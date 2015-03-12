@@ -1,3 +1,4 @@
+package com.marcthomas
 import static org.junit.Assert.*
 
 import org.junit.Before
